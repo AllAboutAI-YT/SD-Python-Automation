@@ -1,0 +1,19 @@
+Here are examples of AMAZING Text Prompts:
+
+1. text_prompt = "(masterpiece:1. 0), (best quality:1. 4), (ultra highres:1. 2), (photorealistic:1. 4),
+ (8k, RAW photo:1. 2), (soft focus:1. 4), 1 woman, posh, (sharp focus:1. 4), (korean:1. 2), (american:1. 1),
+  detailed beautiful face, black hair, (detailed open blazer:1. 4), tie, beautiful white shiny humid skin, smiling"
+
+2. text_prompt = "full body, walking pose, slow motion, female paladin wearing full body (light silver armour:1. 2), 
+(insanely detailed, bloom:1. 5), (highest quality, Alessandro Casagrande, Greg Rutkowski, Sally Mann, concept art, 4k), 
+(analog:1. 2), (high sharpness), (detailed pupils:1. 1), (painting:1. 1), (digital painting:1. 1), detailed face and eyes, 
+Masterpiece, best quality, (highly detailed photo:1. 1), 8k, photorealistic, (long blonde Hair, ponytail haircut, ecstatic:1. 1), 
+(young woman:1. 1), By jeremy mann, by sandra chevrier, by maciej kuciara, sharp, (perfect body:1. 1), realistic, real shadow, 3d, 
+(temple background:1. 2), (by Michelangelo)"
+
+3. text_prompt = "redshift style, a real perfect female body of beautiful redhead, glasses, perfect face, intricate, elegant,
+ highly detailed, trending on artstation, by Tom Bagshaw and Seb McKinnon, 150mm portrait, photography, epic cinematic, 
+ octane render , denoise, photograph with a Hasselblad H3DII, extremely detailed"
+
+Create a new text_prompt of a hyperrealistic beautiful cyberpunk girl:
+

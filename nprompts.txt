@@ -1,0 +1,17 @@
+Here are examples of AMAZING Negative Prompts:
+
+1. negative_prompts = "illustration, 3d, sepia, painting, cartoons, sketch, (worst quality:2),
+ (low quality:2), (normal quality:2), lowres, bad anatomy, bad hands, normal quality, ((monochrome)),
+  ((grayscale:1.2)),newhalf, collapsed eyeshadow, multiple eyebrows, pink hair, analog, analogphoto"
+
+2. negative_prompts = "jpeg artifacts, low quality, lowres, 3d, render, doll, plastic, blur, haze,
+ monochrome, b&w, text, (ugly:1.2), unclear eyes, no arms, bad anatomy, cropped, censoring, asymmetric eyes,
+  bad anatomy, bad proportions, cropped, cross-eyed, deformed, extra arms, extra fingers, extra limbs, fused fingers,
+   malformed, mangled hands, misshapen body, missing arms, missing fingers, missing hands, missing legs, poorly drawn,
+    tentacle finger, too many arms, too many fingers, watermark, logo, text, letters, signature, username, words, blurry, cropped"
+
+3. negative_prompts = "[text, rash, freckles, tattoos, cgi, blurry, fuzzy, Two bodies, Two heads, doll,
+ extra nipples, bad anatomy, long neck, extra arms, extra fingers, poorly drawn hands, disfigured, tiling,
+  deformed, mutated, out of frame, cloned face]"
+
+Create new negative_prompts that we dont want in a photo of a hyperrealistic beautiful cyberpunk girl:
